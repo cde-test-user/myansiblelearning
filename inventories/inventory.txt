@@ -1,7 +1,8 @@
 #Sample inventory file
 
 [webservers]
-10.74.228.137
-10.74.234.93
+lvntest00288.bpc.broadcom.net
+#10.74.228.137
+#10.74.234.93
 
 
